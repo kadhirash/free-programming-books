@@ -320,7 +320,9 @@
 #### Algorithms & Data Structures
 
 * [A Field Guide To Genetic Programming](https://b-ok.cc/book/861921/18f698) - Riccardo Poli et al. (PDF)
+* [Algorithm Design](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Jon Kleinberg and Éva Tardos (PDF)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
+* [Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) - Sanjoy Dasgupta et al. (PDF)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
